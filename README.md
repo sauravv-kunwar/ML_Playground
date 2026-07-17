@@ -4,6 +4,8 @@ OptimaML Studio is a fully client-side Machine Learning sandbox and interactive 
 
 ---
 
+## Demo 
+- https://ml-playground-lyart.vercel.app/
 ## Key Features
 
 - **Zero-Backend Client-Side Training**: All mathematical calculations, gradient descent steps, tree-splitting, and coordinate descents run natively in the browser.
